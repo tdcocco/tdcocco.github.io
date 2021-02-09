@@ -10,4 +10,6 @@ display:none !important;
 display:none !important;
 }
 
-
+.product-item__date {
+display:none !important;
+}
