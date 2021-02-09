@@ -10,7 +10,7 @@ display:none !important;
 display:none !important;
 }
 
-.mat-button-wrapper {
+.mat-stroked-button {
 display:none !important;
 }
 
@@ -18,6 +18,3 @@ display:none !important;
 display:none !important;
 }
 
-#bt-add-to-calendar {
-display:none !important;
-}
